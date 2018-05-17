@@ -5,14 +5,14 @@
 
 int main(int argc, char *argv[]) {
 	
-int englishgrade,mathgrade,sum;
-	printf("enter englishgrade=>");
-	scanf("%d",&englishgrade);
-	printf("enter mathgrade=>");
-	scanf("%d",&mathgrade);
+int EnglishGrade,MathGrade,Sum;
+	printf("enter EnglishGrade=>");
+	scanf("%d",&EnglishGrade);
+	printf("enter MathGrade=>");
+	scanf("%d",&MathGrade);
 
-	sum=englishgrade+mathgrade;
-	printf("sum=%d\n",sum);
+	Sum=EnglishGrade+MathGrade;
+	printf("Sum=%d\n",Sum);
 	
 return 0;
 }
