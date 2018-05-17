@@ -3,3 +3,4 @@ main.o
 hw.exe
 Makefile.win
 hw.layout
+main.exe
